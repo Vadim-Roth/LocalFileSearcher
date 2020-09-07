@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="SearchHistoryDBModelStoreContainer" CdmEntityContainer="SearchHistoryDataEntities">
+    <EntitySetMapping Name="ResultsFounds">
+      <EntityTypeMapping TypeName="SearchHistoryDBModel.ResultsFound">
+        <MappingFragment StoreEntitySet="ResultsFound">
+          <ScalarProperty Name="foundId" ColumnName="foundId" />
+          <ScalarProperty Name="searchId" ColumnName="searchId" />
+          <ScalarProperty Name="fileName" ColumnName="fileName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SearchHistories">
+      <EntityTypeMapping TypeName="SearchHistoryDBModel.SearchHistory">
+        <MappingFragment StoreEntitySet="SearchHistory">
+          <ScalarProperty Name="searchId" ColumnName="searchId" />
+          <ScalarProperty Name="date" ColumnName="date" />
+          <ScalarProperty Name="searchStr" ColumnName="searchStr" />
+          <ScalarProperty Name="folderName" ColumnName="folderName" />
+          <ScalarProperty Name="resultsFound" ColumnName="resultsFound" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

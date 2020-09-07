@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SearchHistoryDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="ResultsFound">
+    <Key>
+      <PropertyRef Name="foundId" />
+    </Key>
+    <Property Name="foundId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="searchId" Type="int" Nullable="false" />
+    <Property Name="fileName" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="SearchHistory">
+    <Key>
+      <PropertyRef Name="searchId" />
+    </Key>
+    <Property Name="searchId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="date" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="searchStr" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="folderName" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="resultsFound" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="SearchHistoryDBModelStoreContainer">
+    <EntitySet Name="ResultsFound" EntityType="Self.ResultsFound" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="SearchHistory" EntityType="Self.SearchHistory" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

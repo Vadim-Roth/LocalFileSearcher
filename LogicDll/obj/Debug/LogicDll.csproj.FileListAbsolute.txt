@@ -1,0 +1,14 @@
+C:\Users\koman\source\repos\LocalFileSearcher\LogicDll\bin\Debug\LogicDll.dll
+C:\Users\koman\source\repos\LocalFileSearcher\LogicDll\bin\Debug\LogicDll.pdb
+C:\Users\koman\source\repos\LocalFileSearcher\LogicDll\bin\Debug\DataDll.dll
+C:\Users\koman\source\repos\LocalFileSearcher\LogicDll\bin\Debug\DataDll.pdb
+C:\Users\koman\source\repos\LocalFileSearcher\LogicDll\obj\Debug\LogicDll.csprojAssemblyReference.cache
+C:\Users\koman\source\repos\LocalFileSearcher\LogicDll\obj\Debug\LogicDll.csproj.CopyComplete
+C:\Users\koman\source\repos\LocalFileSearcher\LogicDll\obj\Debug\LogicDll.dll
+C:\Users\koman\source\repos\LocalFileSearcher\LogicDll\obj\Debug\LogicDll.pdb
+C:\Users\koman\source\repos\LocalFileSearcher\LogicDll\bin\Debug\LogicDll.dll.config
+C:\Users\koman\source\repos\LocalFileSearcher\LogicDll\bin\Debug\EntityFramework.dll
+C:\Users\koman\source\repos\LocalFileSearcher\LogicDll\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\koman\source\repos\LocalFileSearcher\LogicDll\bin\Debug\DataDll.dll.config
+C:\Users\koman\source\repos\LocalFileSearcher\LogicDll\bin\Debug\EntityFramework.xml
+C:\Users\koman\source\repos\LocalFileSearcher\LogicDll\bin\Debug\EntityFramework.SqlServer.xml

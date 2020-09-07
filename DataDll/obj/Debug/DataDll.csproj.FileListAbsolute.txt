@@ -1,0 +1,11 @@
+C:\Users\koman\source\repos\LocalFileSearcher\DataDll\bin\Debug\DataDll.dll
+C:\Users\koman\source\repos\LocalFileSearcher\DataDll\bin\Debug\DataDll.pdb
+C:\Users\koman\source\repos\LocalFileSearcher\DataDll\obj\Debug\DataDll.csprojAssemblyReference.cache
+C:\Users\koman\source\repos\LocalFileSearcher\DataDll\obj\Debug\DataDll.dll
+C:\Users\koman\source\repos\LocalFileSearcher\DataDll\obj\Debug\DataDll.pdb
+C:\Users\koman\source\repos\LocalFileSearcher\DataDll\bin\Debug\DataDll.dll.config
+C:\Users\koman\source\repos\LocalFileSearcher\DataDll\bin\Debug\EntityFramework.dll
+C:\Users\koman\source\repos\LocalFileSearcher\DataDll\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\koman\source\repos\LocalFileSearcher\DataDll\bin\Debug\EntityFramework.xml
+C:\Users\koman\source\repos\LocalFileSearcher\DataDll\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\koman\source\repos\LocalFileSearcher\DataDll\obj\Debug\DataDll.csproj.CopyComplete
